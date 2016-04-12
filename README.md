@@ -1,2 +1,2 @@
 # git-introduction
-Used for teaching git as svn
+Used for teaching git to course students.
