@@ -1,2 +1,2 @@
 # git-introduction
-Used for teaching git to course students.
+Used for teaching git to new course students.
